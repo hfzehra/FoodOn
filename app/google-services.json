@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661148516600",
+    "project_id": "foodon-b7567",
+    "storage_bucket": "foodon-b7567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661148516600:android:9de42b5bbbcf9379407b0d",
+        "android_client_info": {
+          "package_name": "my.foodontheway.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661148516600-9elnfkd6qnqqd7blaa58rk0nurp74a6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAIMAh7L13O4uF6wYZ6aXG-tY0WL-FKB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661148516600-9elnfkd6qnqqd7blaa58rk0nurp74a6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

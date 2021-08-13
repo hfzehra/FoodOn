@@ -1,5 +1,18 @@
 <resources>
     <string name="app_name">FoodOn</string>
-    <string name="title_home">Home</string>
+    <string name="firstname">FirstName</string>
+    <string name="lastname">LastName</string>
+    <string name="email_id">Email id</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="mobilenumber">MobileNumber</string>
+    <string name="house_streert_no">House/Streert no</string>
+    <string name="area">Area</string>
+    <string name="pin_code">Pin Code</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="register">Register</string>
+    <string name="or">OR</string>
+    <string name="signin_with">SignIn with</string>
 
 </resources>
